@@ -1,6 +1,6 @@
-# Guerrilla Analytics Portfolio – Gonçalo Passinhas
+# Guerrilla Portfolio – Gonçalo Passinhas
 
-This repository contains selected university projects from my Master’s in Data Science and Marketing Analytics at Erasmus School of Economics. They illustrate my experience with R, data preparation, statistical modelling and behaviour-based segmentation, and my ability to turn raw data into clear, actionable insights.
+This repository contains selected university projects from my Master’s in Data Science and Marketing Analytics at Erasmus School of Economics. They illustrate my experience with coding, data preparation, statistical modelling and behaviour-based segmentation, and my ability to turn raw data into clear, actionable insights.
 
 ## Projects
 
@@ -12,7 +12,7 @@ This repository contains selected university projects from my Master’s in Data
 2. **Hotel Customer Segmentation and Revenue Analysis** (`project2/`)  
    Segments hotel customers based on booking behaviour and revenue using k-means clustering.  
    - Uses elbow and silhouette methods to choose the number of clusters, then profiles segments on age, stay characteristics and revenue.  
-   - Delivers targeted marketing and loyalty recommendations, analogous to player cohort and monetisation analysis.
+   - Delivers targeted marketing and loyalty recommendations, analogous to player group and monetisation analysis.
 
 > Note: Datasets used in these projects are either synthetic, publicly available, or anonymised to respect privacy and course policies.
 
