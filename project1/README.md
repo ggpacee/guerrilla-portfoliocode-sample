@@ -11,7 +11,7 @@ Although the context is telecom, the approach is directly applicable to player c
 
 ## Data
 
-- **Source:** Course-provided Telco customer dataset (Strategic Marketing Decision Making, Erasmus School of Economics).
+- **Source:** Telco customer dataset.
 - **Unit of analysis:** Individual customers.
 - **Target variable:** `Churn` (Yes/No).
 - **Features (selected examples):**
