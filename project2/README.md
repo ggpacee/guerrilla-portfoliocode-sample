@@ -12,7 +12,7 @@ The analytical logic (segmenting users and linking segments to value) is directl
 
 ## Data
 
-- **Source:** Course-provided hotel customer dataset (Strategic Marketing Decision Making, Erasmus School of Economics).
+- **Source:** Hotel customer dataset.
 - **Unit of analysis:** Individual hotel customers.
 - **Key variables (examples):**
   - Demographics: `Age`
@@ -70,7 +70,6 @@ Records with invalid or missing values (e.g. non-numeric ages) were filtered out
   - 4-cluster k-means solution and PCA visualisation  
   - cluster profiling and revenue analysis
 - Optional figures:
-  - Elbow and silhouette plots  
-  - PCA cluster plot  
+  - Elbow and silhouette plots 
   - Bar charts of cluster sizes and revenue per cluster  
   - Tables with cluster statistics (means, medians, 95% CIs).
